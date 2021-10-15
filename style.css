@@ -2,3 +2,27 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+body {
+    margin: 0;
+}
+
+/*Header*/
+
+header {
+    margin-top: -10px;
+    padding: 2%;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    color: khaki;
+    background-image: url(IMGS/pattern.webp);
+}
+
+header h1 {
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+/*Main*/
