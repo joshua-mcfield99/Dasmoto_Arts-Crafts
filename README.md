@@ -6,6 +6,9 @@ I will use the following code languages:
 - HTML
 - CSS
 
+I have made some minor adjustments to the styling to make it look better and be more responsive,
+I have also added a footer with some infomation as to how to contact me, but here is my linkedin: https://www.linkedin.com/in/josh-mcfield-366875222/
+
 take a look at my git here: https://github.com/joshua-mcfield99
 
-I hope you enjoy looking through this code as much as i enjoyed making it.
+I hope you enjoy looking through this code and page as much as i enjoyed making it.
