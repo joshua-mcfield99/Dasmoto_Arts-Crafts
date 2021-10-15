@@ -4,7 +4,33 @@
 }
 
 body {
+    width: 100%;
     margin: 0;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 32px;
+    color: white;
+    padding: 0 20px;
+}
+
+h3 {
+    font-size: 22px;
+    padding: 0 20px;
+}
+
+img {
+    padding: 0 20px;
+}
+
+p {
+    padding: 0 20px;
+}
+
+strong {
+    font-weight: bold;
+    color: blue;
 }
 
 /*Header*/
@@ -26,3 +52,17 @@ header h1 {
 }
 
 /*Main*/
+ 
+.brushes h2 {
+    background-color: mediumspringgreen;
+}
+
+.frames h2 {
+    background-color: lightcoral;
+}
+
+.paint h2 {
+    background-color: skyblue;
+}
+
+
